@@ -98,15 +98,6 @@ Ingresa la URL del video de YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Ingrese la ruta donde desea almacenar el archivo de audio: /ruta/a/mi/musica
 ```
 
-## 📁 Estructura del Proyecto
-
-```
-yt_downloader/
-├── yt-downloader/
-│   └── yt-downloader.py    # Archivo principal del programa
-└── README.md               # Este archivo
-```
-
 ## ⚙️ Funcionalidades Técnicas
 
 - **Limpieza de nombres:** Elimina automáticamente caracteres no válidos (`\/*?:"<>|`) de los nombres de archivo
@@ -115,25 +106,11 @@ yt_downloader/
 - **Formato de video:** Descarga en MP4 con la mejor calidad disponible
 - **Interfaz clara:** Menú interactivo con limpieza de pantalla automática
 
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes ideas para mejorar el proyecto:
-
-1. Haz un fork del repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Haz commit de tus cambios (`git commit -am 'Agrega nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
 ## ⚠️ Advertencias
 
 - Respeta los derechos de autor y las políticas de YouTube
 - Usa esta herramienta solo para contenido que tengas derecho a descargar
 - Algunos videos pueden estar bloqueados por restricciones geográficas o de copyright
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## 🆘 Solución de Problemas
 
